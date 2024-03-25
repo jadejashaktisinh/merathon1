@@ -1,0 +1,598 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.header{
+    background-image: url(1st_Background.png);
+    background-repeat: no-repeat;
+    background-size: 100vw 140vh;
+    height: 120vh;
+    border-radius: 0px 0px 8rem 8rem;
+}
+
+.header-top {
+    margin-top: 3rem;
+    margin-left: -3.2rem;
+}
+.header-top img{
+    margin-right: 0.5rem;
+    width: 5rem;
+    height: 5rem;
+}
+
+.header-top p{
+    font-size: 1.7rem;
+    margin-top: 1rem;
+    color: rgb(17, 83, 160);
+    font-weight: 900;
+}
+.header-bottom {
+    margin-top: 40%;
+}  
+
+.bottom-top-text p{
+     background: linear-gradient(180deg,rgb(41, 132, 207)10%,rgb(5, 109, 194),rgb(6, 104, 184)50%); 
+    font-size: 6.7rem;
+    color: white;
+    font-weight: 900;
+    padding: 1rem 8rem;
+    border-radius: 5rem 0px;
+}
+.bottom-text p{
+        margin-top: -1rem;
+        padding: 0px 3.5rem;
+        font-weight: 500;
+        color: white;
+        background-color: aqua;
+        font-size: 3.6rem;
+}
+.bottom-text span{
+    font-weight: 900;
+}
+.main{
+    margin-top: 6rem;
+    margin-right: 0px;
+    margin-left: 2.4rem;
+    padding: 0px;
+}
+.kk{
+    font-size: 15rem;
+    font-weight: 900;
+    height: 8rem;
+    color: rgb(150, 140, 140);
+    font-family: serif;
+}
+.about p{
+    margin-left: 1rem;
+    font-size: 2rem;
+    color: rgb(17, 83, 160);
+    font-weight: 500;
+}
+.about span{
+    font-weight: 900;
+    color: rgb(17, 83, 160);   
+     font-size: 5rem;
+}
+.para{
+    
+    font-size: 1rem;
+    color: rgb(17, 83, 160);   
+    width: 40rem;
+}
+hr{
+    width: 42rem;
+    height: 0.1rem;
+    background-color: rgb(150, 140, 140);
+
+}
+.maincon2{
+    margin: 0px;
+    padding: 0px;
+}
+.maincon2 img{
+    margin-top: -2.2rem;
+    width: 80%;
+    height: 18.8rem;
+    border-radius: 2rem 0rem;
+    position: absolute;
+    margin-left: 3rem;
+}
+.im-box{
+    width: 83%;
+    margin-left: 2rem;
+    margin-top: 8.5rem;
+    margin-left: 3rem;
+    background-color: rgb(41, 132, 207);
+    height: 16.5rem;
+    border-radius: 1.5rem 0rem;
+}
+.main2{
+    margin: 0px;
+    padding: 0px;
+}
+.maincontent p{
+    margin-right: 4rem;
+    margin-left: 2rem;
+    padding: 0px;
+    margin-top: -1rem;
+    font-size: 3rem;
+    width: 26rem;
+    text-align: end;
+    color: rgb(41, 132, 207);
+}
+.maincontent span{
+    font-weight: 700;
+
+}
+.maincontent2{
+    margin: 0px;
+    padding: 0px;
+}
+.maincontent2 .serv{
+    background: linear-gradient(180deg,rgb(41, 132, 207)10%,rgb(5, 109, 194),rgb(6, 104, 184)50%); 
+    font-size: 3.5rem;
+    margin-right: 0px;
+    margin-left: 0px;
+    border-radius: 6rem 0rem 0rem 0rem;
+    color: white;
+    height: fit-content;
+    margin-bottom: 0px;
+    margin-top: -1rem;
+    width: 120%;
+}
+.maincontent2 p{
+     width: fit-content;
+     margin-top: 2.5rem;
+    margin-left: 9rem;
+}
+.footer{
+    margin: 0px;
+    padding: 0px;
+    margin-left: 2.4rem;
+    height: fit-content;
+}
+
+.bar img{
+    height: 4rem;
+    width: 4rem;
+    
+}
+.bar .line{
+    width: 6rem;
+    
+    position: relative;
+    right: 1rem;
+}
+.bar p{
+    color: rgb(41, 132, 207);
+    font-size: 1rem;
+    width: 6rem;
+    margin-bottom: -1rem;
+    text-align: center;
+    position: relative;
+    right: 1rem;
+}
+.bar .ms-con{
+    width: 7rem;
+}
+.footer-address p{
+    font-size: 1.3rem;
+    color: rgb(41, 132, 207);
+    margin-top: 1rem;
+    margin-bottom: -0.5rem;
+}
+.fa-solid {
+    margin-top: 1.5rem;
+}
+.contact{
+    font-weight: 700;
+}
+.web{
+    margin-left: -4rem;
+    
+}
+.fa-brands{
+    font-size: 1.5rem;
+    text-align: center;
+    position: relative;
+    color: white;
+    background-color: rgb(41, 132, 207);
+    padding: 0.5rem 0.8rem;
+    border-radius: 100%;    
+}
+.footer-right {
+    margin: 0px;
+    padding: 0px;
+    height: 2rem;
+}
+.footer-right p{
+    text-align: end;
+    width: 20rem;
+    font-size: 1rem;
+    color: white;
+}
+.foo-con{
+    margin-top: 0rem;
+    padding: 0px;
+    margin-left: 7rem;
+    margin-right: 0px;
+    height: fit-content;
+    position: relative;
+    top: -2rem;
+}
+
+.foo-con2{
+    margin-top: 0rem;
+    padding: 0px;
+    margin-left: 7rem;
+    margin-right: 0px;
+    height: fit-content;
+    position: relative;
+    top: -0.5rem;
+}
+
+.foo-con3{
+    margin-top: 0rem;
+    padding: 0px;
+    margin-left: 7rem;
+    margin-right: 0px;
+    height: fit-content;
+    position: relative;
+    top: -0.5em;
+}
+.foo-content{
+    
+    margin-top: 4rem;
+    padding: 0px;
+    margin-left: 0rem;
+    margin-right: 0px;
+}
+.lorem{
+    font-weight: 900;
+    font-size: 2rem;
+    margin-bottom: -0.2rem;
+}
+
+.sidebox{
+    background-color: aqua;
+    margin-top: -1.3rem;
+    width: 94%;
+    height: 23rem;
+    margin-left: 2rem;
+}
+.qr {
+    margin: 0px;
+    padding: 0px;
+    background: linear-gradient(180deg,rgb(41, 132, 207)10%,rgb(5, 109, 194),rgb(6, 104, 184)50%); 
+    width: fit-content;
+    position: relative;
+    top: -6.3rem;
+    border-radius: 2rem 0rem;
+}
+.qr img{
+    width: 4.5rem;
+    height: 4.5rem;
+    margin: 1rem 1rem;
+}
+@media only screen and (max-width:1040px) {
+    
+    .header-top {
+        margin-top: 2.5rem;
+        margin-left: -0.5rem;
+    }
+    .header-top img{
+        margin-right: 0.5rem;
+        width: 5rem;
+        height: 5rem;
+    }
+   
+    .bottom-top-text p{
+        font-size: 5rem;
+        padding: 1rem 8rem;
+    }
+    .bottom-text p{
+            margin-top: -1rem;
+            padding: 0px 3.5rem;
+            font-size: 3rem;
+    }
+    .main{
+        margin-top: 1rem;
+        margin-right: 0px;
+        margin-left: 2.4rem;
+        padding: 0px;
+    }
+    .kk{
+        font-size: 11rem;
+        height: 6rem;
+    }
+    .about p{
+        margin-left: 1rem;
+        font-size: 2rem;
+    }
+    .about span{
+         font-size: 4rem;
+    }
+    .para{
+         margin-top: -1rem;
+        width: 32rem;
+    }
+    hr{
+        width: 30rem;
+    
+    }
+    .maincon2{
+        margin: 0px;
+        padding: 0px;
+    }
+    .maincon2 img{
+        margin-top: -2.5rem;
+        width: 80%;
+    }
+    .im-box{
+        width: 83%;
+        margin-top: 5.5rem;
+        margin-left: 3rem;
+    }
+    .maincontent2{
+        margin: 0px;
+        padding: 0px;
+    }
+    .maincontent2 .serv{
+        font-size: 2.5rem;
+        margin-top: -1.5rem;
+        width: 120%;
+    }
+    .maincontent2 p{
+        margin-bottom: 3rem;
+    }
+    .foo-con{
+        margin-left: 1rem;
+    }
+    
+    .foo-con2{
+        margin-left: 1rem;
+    }
+    
+    .foo-con3{
+        margin-left: 1rem;
+    }
+    
+    .sidebox{
+        width: 92%;
+    }
+}
+
+@media only screen and (max-width:768px) {
+    
+    .header-top {
+        margin-top: 3rem;
+        margin-left: 1rem;
+    }
+    .header-top img{
+        margin-right: 0.5rem;
+        width: 4rem;
+        height: 4rem;
+    }
+    .header-bottom {
+        margin-top: 50%;
+    }
+    
+    .bottom-top-text p{
+        font-size: 4rem;
+        padding: 1rem 6rem;
+    }
+    .bottom-text p{
+            margin-top: -1rem;
+            padding: 0px 3.5rem;
+            font-size: 2rem;
+    }
+    .main{
+        margin-top: 1rem;
+        margin-right: 0px;
+        margin-left: 2.4rem;
+        padding: 0px;
+    }
+    .kk{
+        font-size: 9rem;
+        height: 4rem;
+    }
+    .about p{
+        margin-left: 1rem;
+        font-size: 2rem;
+    }
+    .about span{
+         font-size: 3rem;
+    }
+    .para{
+         margin-top: -1rem;
+        width: 24rem;
+        font-size: 0.6rem;
+    }
+    hr{
+        width: 25rem;
+    
+    }
+    .maincontent p{
+        font-size: 2.5rem;
+    }
+    .maincon2{
+        margin: 0px;
+        padding: 0px;
+    }
+    .maincon2 img{
+        margin-top: -2.5rem;
+        width: 80%;
+    }
+    .im-box{
+        width: 83%;
+        margin-top: 5.5rem;
+        margin-left: 3rem;
+    }
+    .maincontent2{
+        margin: 0px;
+        padding: 0px;
+    }
+    .maincontent2 .serv{
+        font-size: 2rem;
+        margin-top: -1.5rem;
+        width: 120%;
+    }
+    .maincontent2 p{
+        margin-bottom: 3rem;
+    }
+    .foo-con{
+        margin-left: 1rem;
+    }
+    
+    .foo-con2{
+        margin-left: 1rem;
+    }
+    
+    .foo-con3{
+        margin-left: 1rem;
+    }
+    
+    .sidebox{
+        width: 90%;
+    }
+    
+.lorem{
+    font-weight: 900;
+    font-size: 1rem !important;
+    margin-bottom: -0.2rem;
+}
+.footer-right p{
+    text-align: end;
+    width: 10rem;
+    font-size:0.5rem;
+    color: white;
+}
+.foo-con{
+    margin-top: 0rem;
+    padding: 0px;
+    margin-left: 4rem;
+    margin-right: 0px;
+    height: fit-content;
+    position: relative;
+    top: -2rem;
+}
+
+.foo-con2{
+    margin-top: 0rem;
+    padding: 0px;
+    margin-left: 4rem;
+    margin-right: 0px;
+    height: fit-content;
+    position: relative;
+    top: -0.5rem;
+}
+
+.foo-con3{
+    margin-top: 0rem;
+    padding: 0px;
+    margin-left: 4rem;
+    margin-right: 0px;
+    height: fit-content;
+    position: relative;
+    top: -0.5em;
+}
+.foo-content{
+    
+    margin-top: 4rem;
+    padding: 0px;
+    margin-left: 0rem;
+    margin-right: 0px;
+}
+}
+
+@media only screen and (max-width:430px) {
+    
+    .header-top {
+        margin-top: 3rem;
+        margin-left: 1rem;
+    }
+    .header-top img{
+        margin-right: 0.5rem;
+        width: 2rem;
+        height: 2rem;
+    }
+    
+    .bottom-top-text p{
+        font-size: 2rem;
+        padding: 1rem 3.5rem;
+    }
+    .bottom-text p{
+            margin-top: -1rem;
+            padding: 0px 2rem;
+            font-size: 1rem;
+    }
+    .main{
+        margin-top: 2rem;
+        margin-right: 0px;
+        margin-left: 2.4rem;
+        padding: 0px;
+    }
+    .kk{
+        font-size: 6rem;
+        height: 4rem;
+    }
+    .about p{
+        margin-left: 1rem;
+        font-size: 1.5rem;
+    }
+    .about span{
+         font-size: 3rem;
+    }
+    .para{
+         margin-top: -1rem;
+        width: 24rem;
+        font-size: 0.6rem;
+    }
+    hr{
+        width: 25rem;
+    
+    }
+    .maincontent p{
+        font-size: 2.5rem;
+    }
+    .maincon2{
+        margin: 0px;
+        padding: 0px;
+    }
+    .maincon2 img{
+        margin-top: -2.5rem;
+        width: 80%;
+    }
+    .im-box{
+        width: 83%;
+        margin-top: 5.5rem;
+        margin-left: 3rem;
+    }
+    .maincontent2{
+        margin: 0px;
+        padding: 0px;
+    }
+    .maincontent2 .serv{
+        font-size: 2rem;
+        margin-top: -1.5rem;
+        width: 120%;
+    }
+    .maincontent2 p{
+        margin-bottom: 3rem;
+    }
+    .foo-con{
+        margin-left: 1rem;
+    }
+    
+    .foo-con2{
+        margin-left: 1rem;
+    }
+    
+    .foo-con3{
+        margin-left: 1rem;
+    }
+    
+    .sidebox{
+        width: 92%;
+    }
+} 
